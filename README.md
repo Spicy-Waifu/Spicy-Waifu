@@ -1,1 +1,1 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=This+is+Sanjana+Ishrat+:3;Welcome+to+my+profile.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F747B8&random=false&width=435&lines=Hello%2C+there!;This+is+Sanjana+Ishrat....;Nice+to+meet+you!)](https://git.io/typing-svg)
